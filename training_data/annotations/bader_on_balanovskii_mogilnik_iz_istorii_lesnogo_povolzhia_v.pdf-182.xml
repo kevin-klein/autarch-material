@@ -1,0 +1,26 @@
+<annotation>
+	<folder>page images new</folder>
+	<filename>bader_on_balanovskii_mogilnik_iz_istorii_lesnogo_povolzhia_v.pdf-182.jpg</filename>
+	<path>E:\dfg\pdfs\page images new\bader_on_balanovskii_mogilnik_iz_istorii_lesnogo_povolzhia_v.pdf-182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1240</width>
+		<height>1755</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>10</ymin>
+			<xmax>1119</xmax>
+			<ymax>1594</ymax>
+		</bndbox>
+	</object>
+</annotation>
