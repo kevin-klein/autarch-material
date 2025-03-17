@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bck</folder>
+	<filename>drevnosti_stepnogo_prichernomoria_i_kryma_iv.pdf-071.jpg</filename>
+	<path>E:\dfg\pdfs\bck\drevnosti_stepnogo_prichernomoria_i_kryma_iv.pdf-071.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1009</width>
+		<height>1639</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>78</ymin>
+			<xmax>941</xmax>
+			<ymax>1587</ymax>
+		</bndbox>
+	</object>
+</annotation>
